@@ -1,5 +1,5 @@
 from Rectangle import Rectangle
-class RectangularParallelepiped:
+class RectangularParallelepiped(Rectangle):
     def __init__(self, a, b, c):
         assert c > 0
         super().__init__(a, b)

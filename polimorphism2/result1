@@ -1,0 +1,80 @@
+Cone: r=20.0 h=2.0 Dimension = 3 Perimeter = 125.664 Square = 1256.64 SquareSurface = 3776.187570052535 SquareBase = 1256.64 Height = 2.0 Volume = 2519.541678268099
+Trapeze: a=8.0 b=25.0 c=9.0 d=4.0 Dimension = 2 Perimeter = 46.0 Square = 86.38 SquareSurface = None SquareBase = None Height = None Volume = 86.38
+TriangularPyramid: a=21.0 h=10.0 Dimension = 2 Perimeter = 63.0 Square = 190.95860153446873 SquareSurface = 1909.5860153446872 SquareBase = 190.95860153446873 Height = 10.0 Volume = 636.5286717815625
+Rectangle: a=5.0 b=11.0 Dimension = 2 Perimeter = 32.0 Square = 55.0 SquareSurface = None SquareBase = None Height = None Volume = 55.0
+Ball: r=24.0 Dimension = 3 Perimeter = None Square = None SquareSurface = 7238.2464 SquareBase = None Height = 48.0 Volume = 57905.83579096706
+Trapeze: a=19.0 b=9.0 c=16.0 d=25.0 Dimension = 2 Perimeter = 69.0 Square = 121.32 SquareSurface = None SquareBase = None Height = None Volume = 121.32
+QuadrangularPyramid: a=14.0 b=18.0 h=22.0 Dimension = 3 Perimeter = 64.0 Square = 252.0 SquareSurface = 9555.389822741603 SquareBase = 252.0 Height = 22.0 Volume = 1848.0
+Triangle: a=11.0 b=17.0 c=25.0 Dimension = 2 Perimeter = 53.0 Square = 76.5061272056036 SquareSurface = None SquareBase = None Height = None Volume = 76.5061272056036
+Cone: r=15.0 h=9.0 Dimension = 3 Perimeter = 94.248 Square = 706.86 SquareSurface = 2238.05333127807 SquareBase = 706.86 Height = 9.0 Volume = 1531.1897506903697
+Circle: r=2.0 Dimension = 2 Perimeter = 12.5664 Square = 12.5664 SquareSurface = None SquareBase = None Height = None Volume = 12.5664
+Trapeze: a=6.0 b=15.0 c=20.0 d=7.0 Dimension = 2 Perimeter = 48.0 Square = 139.3 SquareSurface = None SquareBase = None Height = None Volume = 139.3
+Circle: r=8.0 Dimension = 2 Perimeter = 50.2656 Square = 201.0624 SquareSurface = None SquareBase = None Height = None Volume = 201.0624
+Circle: r=16.0 Dimension = 2 Perimeter = 100.5312 Square = 804.2496 SquareSurface = None SquareBase = None Height = None Volume = 804.2496
+Cone: r=3.0 h=9.0 Dimension = 3 Perimeter = 18.8496 Square = 28.2744 SquareSurface = 145.9603034746648 SquareBase = 28.2744 Height = 9.0 Volume = 117.68562827447305
+TriangularPyramid: a=9.0 h=14.0 Dimension = 2 Perimeter = 27.0 Square = 35.074028853269766 SquareSurface = 491.0364039457767 SquareBase = 35.074028853269766 Height = 14.0 Volume = 163.6788013152589
+Rectangle: a=11.0 b=24.0 Dimension = 2 Perimeter = 70.0 Square = 264.0 SquareSurface = None SquareBase = None Height = None Volume = 264.0
+Cone: r=8.0 h=6.0 Dimension = 3 Perimeter = 50.2656 Square = 201.0624 SquareSurface = 653.4528 SquareBase = 201.0624 Height = 6.0 Volume = 452.3893421169302
+Parallelogram: a=22.0 b=17.0 h=14.0 Dimension = 2 Perimeter = 78.0 Square = 308.0 SquareSurface = None SquareBase = None Height = None Volume = 308.0
+Parallelogram: a=15.0 b=25.0 h=6.0 Dimension = 2 Perimeter = 80.0 Square = 90.0 SquareSurface = None SquareBase = None Height = None Volume = 90.0
+Cone: r=16.0 h=11.0 Dimension = 3 Perimeter = 100.5312 Square = 804.2496 SquareSurface = 2584.480611117405 SquareBase = 804.2496 Height = 11.0 Volume = 1780.2268481726405
+RectangularParallelepiped: a=9.0 b=16.0 c=5.0 Dimension = 3 Perimeter = 50.0 Square = 144.0 SquareSurface = 538.0 SquareBase = 144.0 Height = 5.0 Volume = 720.0
+Rectangle: a=7.0 b=1.0 Dimension = 2 Perimeter = 16.0 Square = 7.0 SquareSurface = None SquareBase = None Height = None Volume = 7.0
+Rectangle: a=13.0 b=18.0 Dimension = 2 Perimeter = 62.0 Square = 234.0 SquareSurface = None SquareBase = None Height = None Volume = 234.0
+Parallelogram: a=20.0 b=18.0 h=1.0 Dimension = 2 Perimeter = 76.0 Square = 20.0 SquareSurface = None SquareBase = None Height = None Volume = 20.0
+TriangularPrism: a=7.0 b=9.0 c=15.0 l=7.0 Dimension = 3 Perimeter = 31.0 Square = 20.69269194667528 SquareSurface = 258.39 SquareBase = 20.69269194667528 Height = 7.0 Volume = 144.84884362672696
+Circle: r=11.0 Dimension = 2 Perimeter = 69.1152 Square = 380.1336 SquareSurface = None SquareBase = None Height = None Volume = 380.1336
+RectangularParallelepiped: a=12.0 b=8.0 c=5.0 Dimension = 3 Perimeter = 40.0 Square = 96.0 SquareSurface = 392.0 SquareBase = 96.0 Height = 5.0 Volume = 480.0
+Triangle: a=12.0 b=14.0 c=17.0 Dimension = 2 Perimeter = 43.0 Square = 83.0267276243018 SquareSurface = None SquareBase = None Height = None Volume = 83.0267276243018
+Cone: r=21.0 h=7.0 Dimension = 3 Perimeter = 131.9472 Square = 1385.4456 SquareSurface = 4231.279090086193 SquareBase = 1385.4456 Height = 7.0 Volume = 2845.8268353051258
+Rectangle: a=25.0 b=1.0 Dimension = 2 Perimeter = 52.0 Square = 25.0 SquareSurface = None SquareBase = None Height = None Volume = 25.0
+RectangularParallelepiped: a=23.0 b=1.0 c=5.0 Dimension = 3 Perimeter = 48.0 Square = 23.0 SquareSurface = 286.0 SquareBase = 23.0 Height = 5.0 Volume = 115.0
+Ball: r=8.0 Dimension = 3 Perimeter = None Square = None SquareSurface = 804.2496 SquareBase = None Height = 16.0 Volume = 2144.660584850632
+QuadrangularPyramid: a=14.0 b=25.0 h=14.0 Dimension = 3 Perimeter = 78.0 Square = 350.0 SquareSurface = 8115.648154322995 SquareBase = 350.0 Height = 14.0 Volume = 1633.3333333333333
+Ball: r=7.0 Dimension = 3 Perimeter = None Square = None SquareSurface = 615.7536 SquareBase = None Height = 14.0 Volume = 1436.7550402417319
+QuadrangularPyramid: a=15.0 b=21.0 h=24.0 Dimension = 3 Perimeter = 72.0 Square = 315.0 SquareSurface = 11704.938881201391 SquareBase = 315.0 Height = 24.0 Volume = 2520.0
+Rectangle: a=6.0 b=9.0 Dimension = 2 Perimeter = 30.0 Square = 54.0 SquareSurface = None SquareBase = None Height = None Volume = 54.0
+TriangularPyramid: a=8.0 h=22.0 Dimension = 2 Perimeter = 24.0 Square = 27.712812921102035 SquareSurface = 609.6818842642447 SquareBase = 27.712812921102035 Height = 22.0 Volume = 203.22729475474824
+Ball: r=21.0 Dimension = 3 Perimeter = None Square = None SquareSurface = 5541.7824 SquareBase = None Height = 42.0 Volume = 38792.38608652676
+Rectangle: a=15.0 b=5.0 Dimension = 2 Perimeter = 40.0 Square = 75.0 SquareSurface = None SquareBase = None Height = None Volume = 75.0
+TriangularPyramid: a=25.0 h=23.0 Dimension = 2 Perimeter = 75.0 Square = 270.6329386826371 SquareSurface = 6224.557589700653 SquareBase = 270.6329386826371 Height = 23.0 Volume = 2074.8525299002176
+RectangularParallelepiped: a=3.0 b=20.0 c=13.0 Dimension = 3 Perimeter = 46.0 Square = 60.0 SquareSurface = 718.0 SquareBase = 60.0 Height = 13.0 Volume = 780.0
+Circle: r=22.0 Dimension = 2 Perimeter = 138.2304 Square = 1520.5344 SquareSurface = None SquareBase = None Height = None Volume = 1520.5344
+TriangularPrism: a=2.0 b=8.0 c=8.0 l=15.0 Dimension = 3 Perimeter = 18.0 Square = 7.937253933193772 SquareSurface = 285.87 SquareBase = 7.937253933193772 Height = 15.0 Volume = 119.05880899790658
+Cone: r=7.0 h=7.0 Dimension = 3 Perimeter = 43.9824 Square = 153.9384 SquareSurface = 525.5785730500145 SquareBase = 153.9384 Height = 7.0 Volume = 371.6393039956598
+Trapeze: a=10.0 b=19.0 c=15.0 d=9.0 Dimension = 2 Perimeter = 53.0 Square = 120.23 SquareSurface = None SquareBase = None Height = None Volume = 120.23
+Circle: r=21.0 Dimension = 2 Perimeter = 131.9472 Square = 1385.4456 SquareSurface = None SquareBase = None Height = None Volume = 1385.4456
+Trapeze: a=13.0 b=20.0 c=13.0 d=22.0 Dimension = 2 Perimeter = 68.0 Square = 228.63 SquareSurface = None SquareBase = None Height = None Volume = 228.63
+Triangle: a=12.0 b=15.0 c=25.0 Dimension = 2 Perimeter = 52.0 Square = 63.2771680782255 SquareSurface = None SquareBase = None Height = None Volume = 63.2771680782255
+Cone: r=11.0 h=6.0 Dimension = 3 Perimeter = 69.1152 Square = 380.1336 SquareSurface = 1193.2726869032495 SquareBase = 380.1336 Height = 6.0 Volume = 813.1371854347976
+Circle: r=19.0 Dimension = 2 Perimeter = 119.3808 Square = 1134.1176 SquareSurface = None SquareBase = None Height = None Volume = 1134.1176
+Ball: r=13.0 Dimension = 3 Perimeter = None Square = None SquareSurface = 2123.7216 SquareBase = None Height = 26.0 Volume = 9202.7720799157
+TriangularPyramid: a=2.0 h=5.0 Dimension = 2 Perimeter = 6.0 Square = 1.7320508075688772 SquareSurface = 8.660254037844386 SquareBase = 1.7320508075688772 Height = 5.0 Volume = 2.8867513459481287
+Rectangle: a=13.0 b=5.0 Dimension = 2 Perimeter = 36.0 Square = 65.0 SquareSurface = None SquareBase = None Height = None Volume = 65.0
+Trapeze: a=12.0 b=15.0 c=2.0 d=20.0 Dimension = 2 Perimeter = 49.0 Square = 870.33 SquareSurface = None SquareBase = None Height = None Volume = 870.33
+Ball: r=25.0 Dimension = 3 Perimeter = None Square = None SquareSurface = 7854.0 SquareBase = None Height = 50.0 Volume = 65449.84694978735
+TriangularPrism: a=16.0 b=20.0 c=25.0 l=8.0 Dimension = 3 Perimeter = 61.0 Square = 159.81219446587923 SquareSurface = 807.62 SquareBase = 159.81219446587923 Height = 8.0 Volume = 1278.4975557270338
+Trapeze: a=22.0 b=3.0 c=10.0 d=3.0 Dimension = 2 Perimeter = 38.0 Square = 80.51 SquareSurface = None SquareBase = None Height = None Volume = 80.51
+RectangularParallelepiped: a=10.0 b=24.0 c=14.0 Dimension = 3 Perimeter = 68.0 Square = 240.0 SquareSurface = 1432.0 SquareBase = 240.0 Height = 14.0 Volume = 3360.0
+TriangularPyramid: a=8.0 h=6.0 Dimension = 2 Perimeter = 24.0 Square = 27.712812921102035 SquareSurface = 166.27687752661222 SquareBase = 27.712812921102035 Height = 6.0 Volume = 55.42562584220407
+Ball: r=8.0 Dimension = 3 Perimeter = None Square = None SquareSurface = 804.2496 SquareBase = None Height = 16.0 Volume = 2144.660584850632
+TriangularPyramid: a=13.0 h=4.0 Dimension = 2 Perimeter = 39.0 Square = 73.17914661978507 SquareSurface = 292.7165864791403 SquareBase = 73.17914661978507 Height = 4.0 Volume = 97.57219549304676
+Ball: r=25.0 Dimension = 3 Perimeter = None Square = None SquareSurface = 7854.0 SquareBase = None Height = 50.0 Volume = 65449.84694978735
+Rectangle: a=10.0 b=13.0 Dimension = 2 Perimeter = 46.0 Square = 130.0 SquareSurface = None SquareBase = None Height = None Volume = 130.0
+QuadrangularPyramid: a=23.0 b=25.0 h=14.0 Dimension = 3 Perimeter = 96.0 Square = 575.0 SquareSurface = 10647.752383549892 SquareBase = 575.0 Height = 14.0 Volume = 2683.333333333333
+TriangularPyramid: a=22.0 h=9.0 Dimension = 2 Perimeter = 66.0 Square = 209.57814771583415 SquareSurface = 1886.203329442507 SquareBase = 209.57814771583415 Height = 9.0 Volume = 628.7344431475024
+Cone: r=23.0 h=20.0 Dimension = 3 Perimeter = 144.5136 Square = 1661.9064 SquareSurface = 5526.164030130417 SquareBase = 1661.9064 Height = 20.0 Volume = 3864.248593836269
+Trapeze: a=6.0 b=23.0 c=7.0 d=20.0 Dimension = 2 Perimeter = 56.0 Square = 98.0 SquareSurface = None SquareBase = None Height = None Volume = 98.0
+TriangularPrism: a=6.0 b=16.0 c=20.0 l=8.0 Dimension = 3 Perimeter = 42.0 Square = 39.68626966596886 SquareSurface = 415.37 SquareBase = 39.68626966596886 Height = 8.0 Volume = 317.49015732775086
+RectangularParallelepiped: a=21.0 b=19.0 c=6.0 Dimension = 3 Perimeter = 80.0 Square = 399.0 SquareSurface = 1278.0 SquareBase = 399.0 Height = 6.0 Volume = 2394.0
+Circle: r=23.0 Dimension = 2 Perimeter = 144.5136 Square = 1661.9064 SquareSurface = None SquareBase = None Height = None Volume = 1661.9064
+Circle: r=14.0 Dimension = 2 Perimeter = 87.9648 Square = 615.7536 SquareSurface = None SquareBase = None Height = None Volume = 615.7536
+Circle: r=12.0 Dimension = 2 Perimeter = 75.3984 Square = 452.3904 SquareSurface = None SquareBase = None Height = None Volume = 452.3904
+Ball: r=11.0 Dimension = 3 Perimeter = None Square = None SquareSurface = 1520.5344 SquareBase = None Height = 22.0 Volume = 5575.279762570686
+Parallelogram: a=25.0 b=20.0 h=9.0 Dimension = 2 Perimeter = 90.0 Square = 225.0 SquareSurface = None SquareBase = None Height = None Volume = 225.0
+QuadrangularPyramid: a=13.0 b=24.0 h=20.0 Dimension = 3 Perimeter = 74.0 Square = 312.0 SquareSurface = 10081.553338042124 SquareBase = 312.0 Height = 20.0 Volume = 2080.0
+RectangularParallelepiped: a=18.0 b=22.0 c=6.0 Dimension = 3 Perimeter = 80.0 Square = 396.0 SquareSurface = 1272.0 SquareBase = 396.0 Height = 6.0 Volume = 2376.0
+TriangularPrism: a=7.0 b=22.0 c=23.0 l=18.0 Dimension = 3 Perimeter = 52.0 Square = 76.99350621968063 SquareSurface = 1089.99 SquareBase = 76.99350621968063 Height = 18.0 Volume = 1385.8831119542513
+Triangle: a=14.0 b=14.0 c=18.0 Dimension = 2 Perimeter = 46.0 Square = 96.51424765287247 SquareSurface = None SquareBase = None Height = None Volume = 96.51424765287247
+TriangularPrism: a=11.0 b=20.0 c=22.0 l=13.0 Dimension = 3 Perimeter = 53.0 Square = 109.61038956230381 SquareSurface = 908.22 SquareBase = 109.61038956230381 Height = 13.0 Volume = 1424.9350643099494
+The biggest volume has Ball: r=25.0 It's volume = 65449.84694978735
